@@ -1,0 +1,28 @@
+{
+    "person": [
+        {
+            "name": "Emmanuel",
+            "role": "Program",
+            "pets": ["dogs", "cats"],
+            "is_graduating": false
+        },
+        {
+            "name": "Elaine",
+            "role": "Document",
+            "pets": ["dogs", "cats"],
+            "is_graduating": true
+        },
+        {
+            "name": "Raymond",
+            "role": "Document",
+            "pets": null,
+            "is_graduating": true
+        },
+        {
+            "name": "Rochelle",
+            "role": "Program",
+            "pets": ["dogs"],
+            "is_graduating": true
+        }
+    ]
+}

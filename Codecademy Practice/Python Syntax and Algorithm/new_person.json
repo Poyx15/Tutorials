@@ -1,0 +1,24 @@
+{
+  "person": [
+    {
+      "name": "Emmanuel",
+      "role": "Program",
+      "is_graduating": false
+    },
+    {
+      "name": "Elaine",
+      "role": "Document",
+      "is_graduating": true
+    },
+    {
+      "name": "Raymond",
+      "role": "Document",
+      "is_graduating": true
+    },
+    {
+      "name": "Rochelle",
+      "role": "Program",
+      "is_graduating": true
+    }
+  ]
+}
